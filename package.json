@@ -1,5 +1,5 @@
 {
-  "name": "sample-project-node-package-fetch",
+  "name": "@soos-io/sample-project-node-package-fetch",
   "version": "1.0.0",
   "description": "SOOS ( https://soos.io ) is an independent software security company, located in Winooski, VT USA, building security software for your team. Used for testing purposes, this tool is an example of fetching package information from SOOS.",
   "main": "index.js",
