@@ -1,0 +1,38 @@
+{
+  "name": "sample-project-node-package-fetch",
+  "version": "1.0.0",
+  "description": "SOOS ( https://soos.io ) is an independent software security company, located in Winooski, VT USA, building security software for your team. Used for testing purposes, this tool is an example of fetching package information from SOOS.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "soos-package-fetch": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "keywords": [
+    "soos",
+    "sca",
+    "@soos-io",
+    "package",
+    "sample",
+    "project",
+    "example",
+    "vulnerabilities",
+    "licenses",
+    "sbom",
+    "governance",
+    "dast",
+    "open source",
+    "oss"
+  ],
+  "author": "soosintegrations",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
