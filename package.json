@@ -1,6 +1,6 @@
 {
   "name": "@soos-io/sample-project-node-package-fetch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SOOS ( https://soos.io ) is an independent software security company, located in Winooski, VT USA, building security software for your team. Used for testing purposes, this tool is an example of fetching package information from SOOS.",
   "main": "index.js",
   "type": "module",
@@ -32,6 +32,10 @@
   ],
   "author": "soosintegrations",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soos-io/sample-project-node-package-fetch/issues"
+  },
+  "homepage": "https://github.com/soos-io/sample-project-node-package-fetch#readme",
   "dependencies": {
     "node-fetch": "^3.3.0"
   }
